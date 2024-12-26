@@ -113,5 +113,13 @@ hr{
   overflow: scroll;
 }
 @media screen and (max-width:600px){
-  
+  .search-bar{
+    display: none !important;
+  }
+  .notification{
+    display: none !important;
+  }
+  .Youtube-logo{
+    margin-left: 40px
+  }
 }
